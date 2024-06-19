@@ -35,41 +35,41 @@ jQuery(document).ready(function($){
         
         
 
-      }else if (clickNumber === 2){
+      }else if (clickNumber === 41){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
           comment.innerHTML = "Heads!";
       }, 3500);
 
-      }else if (clickNumber === 3){
+      }else if (clickNumber === 2){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
           comment.innerHTML = "Heads Again!";
       }, 3500);
 
-      }else if (clickNumber === 4){
+      }else if (clickNumber === 3){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
           comment.innerHTML = "Oh wow, heads again. What a surprise!";
       }, 3500);
 
-      }else if (clickNumber === 5){
+      }else if (clickNumber === 4){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
           comment.innerHTML = "Heads! It's like this coin has a favorite side.";
       }, 3500);
 
-      }else if (clickNumber === 6){
+      }else if (clickNumber === 5){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
           comment.innerHTML = "Wow, another heads. This coin must really love heads.";
       }, 3500);
       }
 
-      else if (clickNumber === 7){
+      else if (clickNumber === 6){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
-          comment.innerHTML = "Again? Who programmed this thing?";
+          comment.innerHTML = "Again???? Who programmed this thing?";
       }, 3500);
      }
      else if (clickNumber === 8){
@@ -92,43 +92,43 @@ jQuery(document).ready(function($){
     
    }
 
-   else if (clickNumber === 11){
+   else if (clickNumber === 7){
     comment.innerHTML = "&nbsp;&nbsp;";
     setTimeout(function() {
       comment.innerHTML = "Heads. I never would've guessed!";
   }, 3500);
   }
-  else if (clickNumber === 12){
+  else if (clickNumber === 11){
     comment.innerHTML = "&nbsp;&nbsp;";
     setTimeout(function() {
       comment.innerHTML = "Heads. Never saw that one coming.";
   }, 3500);
   }
-  else if (clickNumber === 13){
+  else if (clickNumber === 12){
     comment.innerHTML = "&nbsp;&nbsp;";
     setTimeout(function() {
       comment.innerHTML = "Another heads? What a plot twist!";
   }, 3500);
  }
- else if (clickNumber === 14){
+ else if (clickNumber === 13){
   comment.innerHTML = "&nbsp;&nbsp;";
   setTimeout(function() {
     comment.innerHTML = "Heads! I never would have guessed it.";
 }, 3500);
 }
-else if (clickNumber === 15){
+else if (clickNumber === 14){
   comment.innerHTML = "&nbsp;&nbsp;";
   setTimeout(function() {
     comment.innerHTML = "Heads, heads, heads. So exciting.";
 }, 3500);
 }
-else if (clickNumber === 16){
+else if (clickNumber === 15){
   comment.innerHTML = "&nbsp;&nbsp;";
   setTimeout(function() {
     comment.innerHTML = "Let me guess...heads? Nailed it!";
 }, 3500);
 }
-else if (clickNumber === 17){
+else if (clickNumber === 16){
   comment.innerHTML = "&nbsp;&nbsp;";
   setTimeout(function() {
     comment.innerHTML = "Guess what? It's heads! Again.";
@@ -269,7 +269,7 @@ else if (clickNumber === 40){
 else{
   comment.innerHTML = "&nbsp;&nbsp;";
   setTimeout(function() {
-    comment.innerHTML = "Heads! (also your code might be broken)";
+    comment.innerHTML = "Not Again!!";
 }, 3500);
 }
       console.log(clickNumber);
