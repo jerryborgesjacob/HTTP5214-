@@ -69,19 +69,19 @@ jQuery(document).ready(function($){
       else if (clickNumber === 7){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
-          comment.innerHTML = "Heads again? It's almost like this is rigged or something.";
+          comment.innerHTML = "Again? Who programmed this thing?";
       }, 3500);
      }
      else if (clickNumber === 8){
       comment.innerHTML = "&nbsp;&nbsp;";
       setTimeout(function() {
-        comment.innerHTML = "Heads again? It's like this coin is broken.";
+        comment.innerHTML = "It's like this coin is broken.";
     }, 3500);
     
     }else if (clickNumber === 9){
       comment.innerHTML = "&nbsp;&nbsp;";
       setTimeout(function() {
-        comment.innerHTML = "Heads? Who programmed this thing?";
+        comment.innerHTML = "Heads again? It's almost like this is rigged or something.?";
     }, 3500);
      }
      else if (clickNumber === 10){
