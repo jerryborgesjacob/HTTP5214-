@@ -62,7 +62,7 @@ jQuery(document).ready(function($){
       }else if (clickNumber === 5){
         comment.innerHTML = "&nbsp;&nbsp;";
         setTimeout(function() {
-          comment.innerHTML = "Wow, another heads. This coin must really love heads.";
+          comment.innerHTML = "Is this coin broken?";
       }, 3500);
       }
 
@@ -75,7 +75,7 @@ jQuery(document).ready(function($){
      else if (clickNumber === 8){
       comment.innerHTML = "&nbsp;&nbsp;";
       setTimeout(function() {
-        comment.innerHTML = "It's like this coin is broken.";
+        comment.innerHTML = "Wow, another heads. This coin must really love heads.";
     }, 3500);
     
     }else if (clickNumber === 9){
